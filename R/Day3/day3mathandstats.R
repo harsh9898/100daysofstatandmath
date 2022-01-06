@@ -1,4 +1,4 @@
-data <- datasets::data
+data <- datasets::mtcars
 # mean 
 base::mean(data$mpg)
 
