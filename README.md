@@ -28,3 +28,5 @@
 | 14   | **Revision of week 2**                       | https://bit.ly/3qBaEAX |
 | 15   | **Exploratory Data Analysis - 13**           | https://bit.ly/33Mnnrz |
 | 16   | **Data Sampling Concepts - 1**               | https://bit.ly/3IcEguf |
+| 17   | **Data Sampling Concepts - 2**               | https://bit.ly/3tZBCnX |
+| 18   | **Data Sampling Concepts - 3**               | https://bit.ly/3u54smO |
