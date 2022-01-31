@@ -34,4 +34,5 @@
 | 20   | **Data Sampling Concepts - 5**               | https://bit.ly/3r8FS2l |
 | 21   | **Revision of week 3**                       | https://bit.ly/3ILoeYA |
 | 22   | **Data Sampling Concepts - 6**               | https://bit.ly/3G8pL9j |
+| 23   | **Data Sampling Concepts - 7**               | https://bit.ly/3ufRH8T |
 
