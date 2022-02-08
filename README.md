@@ -37,5 +37,6 @@
 | 23   | **Data Sampling Concepts - 7**               | https://bit.ly/3ufRH8T |
 | 24   | **Data Sampling Concepts - 8**               | https://bit.ly/3gf4m3J |
 | 25   | **Data Sampling Concepts - 9**               | https://bit.ly/3uvCbpy |
+| 26   | **Data Sampling Concepts - 10**              | https://bit.ly/3uxqZZG |
 
 
